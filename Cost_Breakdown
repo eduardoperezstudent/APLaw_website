@@ -1,0 +1,57 @@
+1. Domain Registration and Management on Squarespace
+
+    Current Situation: Domain is already hosted on Squarespace.
+    Cost: Assuming you're on a plan that includes domain management, the domain registration cost might already be covered for the first year. Subsequent years could be around $20 per year for the domain renewal fee.
+
+2. Use a Simple Website Builder with Squarespace
+
+Squarespace offers its own website builder, and with careful planning, you can stay within budget by leveraging their Business Plan for some features while using third-party integrations for others.
+
+    Squarespace Business Plan:
+        Cost: $276 per year ($23/month).
+        Includes: Basic e-commerce features, appointment scheduling through Acuity Scheduling integration (at an additional cost), and the ability to add custom code for added functionalities.
+
+3. Integrate Third-Party Tools for Key Functionalities
+
+    Appointment Scheduling:
+        Acuity Scheduling (Free Emerging Plan):
+            Integrates directly with Squarespace and can handle both free and paid appointments.
+            Cost: $0/year for the free plan, which includes basic scheduling and calendar sync.
+        If You Need More Features:
+            Upgrading to the Growing Plan costs $180/year ($15/month).
+
+    Payment Integration:
+        Squarespace E-commerce Features:
+            Included with the Business Plan. You can use Stripe or PayPal for handling payments.
+            Cost: No additional cost, but payment processing fees apply (2.9% + $0.30 per transaction).
+
+    Subscription Management for Webinars:
+        MemberSpace or Memberstack:
+            Integrates with Squarespace for managing subscriptions and gated content (like webinars).
+            Cost: MemberSpace starts at $25/month, which totals $300/year. Look for any deals or discounts that might lower this cost.
+
+    Social Login Integration:
+        AddThis or Auth0:
+            For basic social login integration, AddThis is free. Auth0 offers a free tier for up to 7,000 active users.
+            Cost: Free, unless you exceed the free tier limits.
+
+    SEO and Analytics:
+        Squarespace SEO Tools: Included with all plans.
+        Google Analytics: Free to use for more advanced tracking.
+        Cost: $0.
+
+    Email Marketing and Notifications:
+        Mailchimp or MailerLite:
+            Both have free tiers that can handle basic email marketing and notifications.
+        Cost: Free for basic plans.
+
+Total Estimated Cost Breakdown:
+
+    Squarespace Business Plan: $276/year.
+    Domain Renewal on Squarespace: $20/year.
+    Appointment Scheduling (Acuity Scheduling Free Plan): $0/year.
+    Subscription Management for Webinars (MemberSpace or Memberstack): $300/year (look for alternatives or possible discounts).
+    Social Login Integration (AddThis or Auth0 Free Tier): $0/year.
+    Payment Processing Fees (Stripe/PayPal): Variable, based on transaction volume.
+
+Total Estimated Cost: $296 - $476 per year
